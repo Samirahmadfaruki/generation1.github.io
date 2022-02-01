@@ -1,0 +1,192 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin-top: 0;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.row {
+    /* margin: 3%; */
+}
+
+.firstimg{
+    background: url('images/one.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+#learnest {
+    margin-top: 1.5%;
+    float: left;
+    color: blue;
+    margin-left: 2%;
+}
+  
+
+
+   
+#login {
+    margin-top: 2%;
+    float: right;
+    margin-right: 2%;
+}
+    #section2{
+        margin: 100px;
+        align-items: center;
+        text-align: center;
+    }
+    .learn {
+        color: white;
+        margin: 50px;
+    }
+
+
+
+
+
+
+
+
+
+
+    #backcolor {
+        background-color: #f1f1f1;
+        padding: 4%;
+        margin-bottom: -20%;
+        PADDING-BOTTOM: 19%;
+    }
+.secrow {
+    text-align: center;
+    padding: 22px;
+}
+
+.col-sm-3.thirdrow {
+    margin: 4%;
+    background-color: white;
+    border: 1px solid white;
+    font-size: small;
+}
+
+.fourthrow{
+    background: url('images/two.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 10%;
+    color: #ffffffc7;
+
+}
+
+.fifthrow {
+    font-size: small;
+    background-color: #f1f1f1;
+    padding: 0%;
+    justify-content: center;
+}
+.flexflex {
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    margin: 23px;
+    border: solid 1px white;
+    background-color: white;
+    place-content: space-between;
+}
+.flexflex img {
+    width: 220px;
+    height: 300px;
+}
+.hthreep {
+    font-family: ui-monospace;
+    height: 21rem;
+    width: 12rem;
+}
+
+p.para {
+    text-decoration: underline;
+    
+    
+    color: rgba(0, 0, 0, 0.534);
+}
+
+
+.socialicon {
+    text-align: center;
+  }
+  ul.ulIcon {
+  
+  }
+  li.liIcon {
+    margin: 3px;
+    margin-top: -20px;
+    font-size: 23px;
+    display: inline;
+  }
+
+  .footer {
+    padding: 4%;
+    background-color: #f1f1f1;
+}
+
+  li.iIcon {
+      color: black;
+    margin: 6px;
+    margin-top: -20px;
+    font-size: 23px;
+    display: inline;
+  }
+
+
+  .anchorIco{
+      text-decoration: none;
+    font-size: large;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fa-dot-circle-o:before {
+    font-size: 438%;
+    content: "\f192";
+    color: blue;
+    
+}
